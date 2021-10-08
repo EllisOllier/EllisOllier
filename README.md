@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EllisOllier
 - 👀 I’m interested in becoming a software developer.
-- 🌱 I’m currently learning C++ and has decent knowledge on python.
+- 🌱 I’m have basic knowledge C++ and has decent knowledge on python.
 - 📫 How to reach me discord Fuze#8337
 
 <!---
