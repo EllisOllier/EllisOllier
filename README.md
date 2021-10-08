@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EllisOllier
-- 👀 I’m interested in becoming a software developer and learning how to develop cheats
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in becoming a software developer.
+- 🌱 I’m currently learning C++ and has decent knowledge on python.
 - 📫 How to reach me discord Fuze#8337
 
 <!---
