@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EllisOllier
-- 👀 I’m interested in becoming a software engineer/ developer.
-- 🌱 I have intermediate knowledge in C#, C++ and Python.
+- 👀 I’m interested in becoming a software engineer.
+- 🌱 I have intermediate knowledge in C# and basic knowledge of HTML, CSS and JS.
+- 👨‍💻 I'm currently completeing The Odin Project.
 - 📫 You can reach me on here by creating an issues on the project you are interested in.
 
 <!---
