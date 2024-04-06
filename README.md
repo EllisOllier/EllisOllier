@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EllisOllier
 - 👀 I’m interested in becoming a software engineer.
 - 🌱 I have intermediate knowledge in HTML, CSS and JavaScript.
-- 👨‍💻 I'm currently completeing learning web development.
+- 👨‍💻 I'm currently completeing The Odin Project.
 - 📫 You can reach me on here by creating an issues on the project you are interested in.
 
 <!---
